@@ -9,5 +9,5 @@ Attendee: The application available for attendees to vote is available at path `
 Class Manager: The real-time dashboard is available for general display at path `/reports` of the host.
 
 <p>
-<a class="xref" href="https://bluemix.net/deploy?repository=https://github.com/ibmjstart/bluemix-node-mysql-uploader" target="_blank" title="(Opens in a new tab or window)"><img class="image" src="images/deploy_buttonx2.png" alt="Deploy to Bluemix" /></a>
+<a class="xref" href="https://bluemix.net/deploy?repository=https://github.com/nicol3chua/ncsurvey" target="_blank" title="(Opens in a new tab or window)"><img class="image" src="images/deploy_buttonx2.png" alt="Deploy to Bluemix" /></a>
 </p> 
